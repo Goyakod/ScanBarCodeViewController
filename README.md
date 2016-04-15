@@ -1,0 +1,2 @@
+# ScanBarCodeViewController
+ios自定义一个扫描二维码/条码功能的控制器
